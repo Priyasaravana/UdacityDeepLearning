@@ -1,0 +1,22 @@
+LIke to know about the assessment:
+
+how many questions, 
+exam duration, 
+exam pattern like multiple choice questions\programming assessment,
+model question paper
+Type of questions.
+
+how the coverage will be in mathematical area
+
+Discussion:
+power projects
+regression
+statistics
+
+MCQ - 20 questions
+Uninterepted time - hour to take exam
+no pause
+areas - algebra, linear algebra, calculus, probability ans statistics python and ML
+
+ML - Pytorch, concepts around kmeansz, decision tree, supervised and unsupervised learnings
+AI Nanodegree - Deep learning, NLP, computer vision, four projects - 
